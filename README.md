@@ -1,16 +1,6 @@
 
 # Hospital Management
----
-## screenshots
-### Homepage
-![homepage snap]("C:\Users\Waqas Gujar\Pictures\Screenshots\homepage.png")
-### Admin Dashboard
-![dashboard snap]("C:\Users\Waqas Gujar\Pictures\Screenshots\Screenshot 2024-08-23 091222.png")
-### Invoice
-![invoice snap]("C:\Users\Waqas Gujar\Pictures\Screenshots\Screenshot 2024-08-23 091612.png")
-### Doctor list
-![doctor snap]("C:\Users\Waqas Gujar\Pictures\Screenshots\Screenshot 2024-08-23 094002.png")
----
+
 ## Functions
 ### Admin
 - Signup their account. Then Login (No approval Required).
